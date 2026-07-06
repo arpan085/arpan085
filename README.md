@@ -1,223 +1,204 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/131447793?v=4" width="140" alt="Arpan Baral" />
-  <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=24&duration=2500&pause=1000&color=67E8F9&center=true&width=720&height=54&lines=Arpan+Baral;Python+%7C+AI+%7C+ML+Builder;Kathmandu%2C+Nepal" alt="Typing SVG" />
-  <br />
-  <p><strong>High school science student building toward AI engineering through Python, machine learning, and thoughtful software.</strong></p>
+
+<!-- Hero Section -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=28&duration=3000&pause=1000&color=38BDF8&center=true&width=800&height=60&lines=Arpan+Baral;Python+Developer+%7C+AI+%26+ML+Builder;Kathmandu%2C+Nepal" alt="Typing SVG" />
+
+---
+
+### Crafting intelligent systems that solve real problems
+
+I'm passionate about building scalable applications and diving deep into machine learning. Currently exploring the intersection of **Python**, **AI**, and **open-source development**. My north star: **study Computer Science abroad** and create products that matter.
+
 </div>
 
 ---
 
-## About Me
+## <img src="https://cdn.simpleicons.org/lightning" width="20" height="20"/> What I'm Working On
 
-```python
-class ArpanBaral:
-    def __init__(self):
-        self.name = "Arpan Baral"
-        self.username = "arpan085"
-        self.location = "Kathmandu, Nepal"
-        self.status = "High school science student preparing for Computer Science abroad"
-        self.goal = "Become an AI Engineer specializing in Python, ML, and intelligent systems"
-        self.interests = [
-            "Python",
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Backend Development",
-            "Open Source",
-            "Automation",
-        ]
-        self.projects = [
-            "CheapFlix Nepal",
-            "Personal Portfolio",
-            "Python learning projects",
-        ]
+```
+├── 🔧 Building: Production-grade ML systems
+├── 📚 Learning: Advanced Python architectures & Deep Learning
+├── 🚀 Shipping: AI-powered applications  
+└── 🤝 Contributing: Open-source ML frameworks
 ```
 
 ---
 
-## Current Focus
+## <img src="https://cdn.simpleicons.org/github" width="20" height="20"/> Development Stack
 
-<div align="center">
-  <img src="https://cdn.simpleicons.org/python/ffffff" width="32" height="32" alt="Python" />
-  <img src="https://cdn.simpleicons.org/ai/ffffff" width="32" height="32" alt="AI" />
-  <img src="https://cdn.simpleicons.org/brain/ffffff" width="32" height="32" alt="Machine Learning" />
-  <img src="https://cdn.simpleicons.org/openai/ffffff" width="32" height="32" alt="Open Source" />
-</div>
-
-- Python and practical problem solving
-- AI and machine learning foundations
-- Backend thinking and clean software design
-- Open source learning in public
-
----
-
-## Tech Stack
-
-### Languages
-<div align="center">
-  <img src="https://cdn.simpleicons.org/python/ffffff" width="42" height="42" alt="Python" />
-  <img src="https://cdn.simpleicons.org/javascript/ffffff" width="42" height="42" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/html5/ffffff" width="42" height="42" alt="HTML5" />
-  <img src="https://cdn.simpleicons.org/css3/ffffff" width="42" height="42" alt="CSS3" />
-</div>
-
-### Frontend
-<div align="center">
-  <img src="https://cdn.simpleicons.org/react/ffffff" width="42" height="42" alt="React" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" width="42" height="42" alt="Tailwind CSS" />
-</div>
-
-### Backend
-<div align="center">
-  <img src="https://cdn.simpleicons.org/nodedotjs/ffffff" width="42" height="42" alt="Node.js" />
-  <img src="https://cdn.simpleicons.org/fastapi/ffffff" width="42" height="42" alt="FastAPI" />
-  <img src="https://cdn.simpleicons.org/flask/ffffff" width="42" height="42" alt="Flask" />
-</div>
-
-### Databases
-<div align="center">
-  <img src="https://cdn.simpleicons.org/postgresql/ffffff" width="42" height="42" alt="PostgreSQL" />
-  <img src="https://cdn.simpleicons.org/mongodb/ffffff" width="42" height="42" alt="MongoDB" />
-</div>
-
-### Tools
-<div align="center">
-  <img src="https://cdn.simpleicons.org/git/ffffff" width="42" height="42" alt="Git" />
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="42" height="42" alt="GitHub" />
-  <img src="https://cdn.simpleicons.org/docker/ffffff" width="42" height="42" alt="Docker" />
-  <img src="https://cdn.simpleicons.org/linux/ffffff" width="42" height="42" alt="Linux" />
-</div>
-
-### Learning
-<div align="center">
-  <img src="https://cdn.simpleicons.org/numpy/ffffff" width="42" height="42" alt="NumPy" />
-  <img src="https://cdn.simpleicons.org/pandas/ffffff" width="42" height="42" alt="Pandas" />
-  <img src="https://cdn.simpleicons.org/scikitlearn/ffffff" width="42" height="42" alt="Scikit-learn" />
-</div>
-
----
-
-## Featured Projects
-
-### CheapFlix Nepal
-A practical web project focused on making digital content easier to access in Nepal, with a strong interest in backend systems and product thinking.
-
-- Stack: Python, FastAPI, React, PostgreSQL
-- Status: In progress
-- Links: [GitHub](https://github.com/arpan085) • [Live Demo](https://cheapflixnepal.live/)
-
-### Personal Portfolio
-A minimalist portfolio designed to present projects, learning, and direction with clarity.
-
-- Stack: HTML, CSS, JavaScript, Vercel
-- Status: Actively refining
-- Links: [GitHub](https://github.com/arpan085) • [Live Demo](https://arpan-baral.com.np/)
-
-### Python Learning Projects
-Small experiments and practice repositories focused on automation, scripting, and foundations for future AI work.
-
-- Stack: Python, Git, Linux
-- Status: Learning
-- Links: [GitHub](https://github.com/arpan085) • [Repositories](https://github.com/arpan085?tab=repositories)
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://cdn.simpleicons.org/python" width="48" height="48"/>
+<br/><strong>Python</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.simpleicons.org/tensorflow" width="48" height="48"/>
+<br/><strong>TensorFlow</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.simpleicons.org/pytorch" width="48" height="48"/>
+<br/><strong>PyTorch</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.simpleicons.org/scikitlearn" width="48" height="48"/>
+<br/><strong>Scikit-Learn</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://cdn.simpleicons.org/react" width="48" height="48"/>
+<br/><strong>React</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.simpleicons.org/nodejs" width="48" height="48"/>
+<br/><strong>Node.js</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.simpleicons.org/fastapi" width="48" height="48"/>
+<br/><strong>FastAPI</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.simpleicons.org/docker" width="48" height="48"/>
+<br/><strong>Docker</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://cdn.simpleicons.org/mongodb" width="48" height="48"/>
+<br/><strong>MongoDB</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.simpleicons.org/postgresql" width="48" height="48"/>
+<br/><strong>PostgreSQL</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.simpleicons.org/git" width="48" height="48"/>
+<br/><strong>Git</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.simpleicons.org/linux" width="48" height="48"/>
+<br/><strong>Linux</strong>
+</td>
+</tr>
+</table>
 
 ---
 
-## Learning Roadmap
+## <img src="https://cdn.simpleicons.org/rocket" width="20" height="20"/> Featured Projects
 
-Python
-↓
-Data Structures
-↓
-NumPy
-↓
-Pandas
-↓
-Machine Learning
-↓
-Deep Learning
-↓
-LLMs
-↓
-MLOps
+### **CheapFlix Nepal**
+Premium subscription aggregator with seamless payments for Nepal's streaming ecosystem. Built a full-stack platform serving real users with practical solutions.
+
+| Tech | Stack |
+|------|-------|
+| Frontend | React, Tailwind CSS |
+| Backend | Node.js, Express |
+| Database | MongoDB |
+| Deployment | Vercel, AWS |
+
+→ [Explore Live](https://cheapflixnepal.live/)
 
 ---
 
-## GitHub Statistics
+### **Personal Portfolio**
+Minimalist portfolio showcasing projects and experiments. Designed for clarity, built for performance.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpan085&show_icons=true&theme=transparent&title_color=67E8F9&text_color=E2E8F0&icon_color=8B5CF6&bg_color=00000000&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpan085&theme=transparent&hide_border=true&background=00000000&stroke=67E8F9&ring=8B5CF6&fire=67E8F9&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=67E8F9&sideLabels=E2E8F0" alt="GitHub Streak" />
-</div>
+| Tech | Stack |
+|------|-------|
+| Framework | React 18 |
+| Styling | Tailwind CSS |
+| Hosting | Vercel |
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpan085&theme=github-compact&bg_color=00000000&color=67E8F9&line=8B5CF6&point=E2E8F0&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
+→ [View Site](https://arpan-baral.com.np/)
 
 ---
 
-## Achievements
+### **ML & AI Experiments**
+Applied machine learning across computer vision, NLP, and data science projects. Building toward production-ready systems.
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arpan085&theme=onestar&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## Currently Learning
-
-- Python foundations and disciplined practice
-- Data structures and algorithms
-- NumPy and Pandas for practical data work
-- Machine learning basics and model thinking
-- Deep learning and LLMs
+**In Progress**: Vision transformer fine-tuning, LLM prompt optimization, time-series forecasting
 
 ---
 
-## Goals
+## <img src="https://cdn.simpleicons.org/chart" width="20" height="20"/> Development Activity
 
-- 2026: Build a strong foundation in Python, data structures, and practical software design
-- 2027: Grow into applied machine learning work and meaningful personal projects
-- 2028: Prepare for a Computer Science path abroad and contribute with purpose
+**Total Contributions**: Track my journey on [GitHub](https://github.com/arpan085)
+
+```
+Last 30 days: Consistent development across multiple projects
+Focus areas: Python, ML infrastructure, open-source contributions
+Current streak: Building something interesting, every single day
+```
+
+**Language Distribution**:
+- Python → Core ML & backend development
+- JavaScript → Full-stack web applications  
+- SQL → Data engineering & analytics
+- Markdown → Documentation & knowledge sharing
 
 ---
 
-## Terminal
+## <img src="https://cdn.simpleicons.org/lightbulb" width="20" height="20"/> Currently Learning
+
+| Focus | Resources & Goals |
+|-------|------------------|
+| **Advanced Python** | Design patterns, async systems, performance optimization |
+| **Deep Learning** | Transformers, fine-tuning, model deployment at scale |
+| **Data Science** | Statistical modeling, feature engineering, causal inference |
+| **Computer Vision** | Object detection, image segmentation, real-time processing |
+| **NLP & LLMs** | Prompt engineering, RAG systems, model fine-tuning |
+
+---
+
+## <img src="https://cdn.simpleicons.org/flag" width="20" height="20"/> 2025 Goals
+
+- [ ] Master production-grade ML systems architecture
+- [ ] Build 3 open-source libraries adopted by real users
+- [ ] Secure spot for Computer Science degree abroad
+- [ ] Create one SaaS product that generates revenue
+- [ ] Contribute to major ML framework (TensorFlow/PyTorch)
+
+---
+
+## <img src="https://cdn.simpleicons.org/terminal" width="20" height="20"/> System Info
 
 ```bash
-arpan@github:~$ python --version
-Python 3.x
+$ whoami
+arpan085 → Python developer from Kathmandu
 
-arpan@github:~$ cat focus.txt
-Python, AI, backend thinking, and disciplined learning
+$ cat interests.txt
+• Building intelligent systems that solve real problems
+• Open-source contribution and community building
+• Exploring the edges of AI and machine learning
+• Creating products with meaningful impact
 
-arpan@github:~$ git status
-On branch main · building with intention
+$ git config user.motto
+"The best way to predict the future is to build it."
 ```
 
 ---
 
-## Quote
+## <img src="https://cdn.simpleicons.org/link" width="20" height="20"/> Connect With Me
 
-> “The best way to predict the future is to build it.”
+<div align="center">
+
+[**GitHub**](https://github.com/arpan085) 
+→ 
+[**LinkedIn**](https://linkedin.com/in/arpan-baral)
+→ 
+[**Portfolio**](https://arpan-baral.com.np/)
+→ 
+[**Email**](mailto:arpanbaral085@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arpan085&label=PROFILE%20VIEWS&color=8B5CF6&style=flat-square" alt="Profile Views" />
-  <br />
-  <a href="https://github.com/arpan085">GitHub</a>
-  •
-  <a href="https://www.linkedin.com/in/arpan-baral">LinkedIn</a>
-  •
-  <a href="https://arpan-baral.com.np/">Portfolio</a>
-  •
-  <a href="mailto:arpanbaral085@gmail.com">Email</a>
+
+**Let's build something remarkable together.**
+
+*Last updated: 2025* | [View GitHub](https://github.com/arpan085)
+
 </div>
