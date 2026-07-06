@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
@@ -24,7 +24,7 @@ Building useful software, learning every day, and preparing for a future in Arti
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Projects;Future+Computer+Science+Student;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Backend+Developer;Open+Source+Contributor"/>
 
 </div>
 
@@ -98,11 +98,15 @@ Node.js
 MongoDB
 ```
 
+**Live:** https://cheapflixnepal.live/
+
 ---
 
 ### Portfolio
 
 Personal developer portfolio.
+
+**Visit:** https://arpan-baral.com.np/
 
 ---
 
@@ -199,15 +203,15 @@ Keep learning.
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://arpan-baral.com.np/">
 <img src="https://cdn.simpleicons.org/vercel" height="48"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/arpan-baral">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:arpanbaral085@gmail.com">
 <img src="https://cdn.simpleicons.org/gmail" height="48"/>
 </a>
 
