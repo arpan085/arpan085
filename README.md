@@ -10,6 +10,7 @@
 
 <br>
 
+
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Building+real-world+projects.;Learning+Artificial+Intelligence.;Exploring+Machine+Learning.;Preparing+for+Computer+Science+abroad."/>
 
 </div>
