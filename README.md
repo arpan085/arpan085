@@ -65,7 +65,7 @@ class ArpanBaral(PythonDeveloper):
     location = "Kathmandu, Nepal"
 
     current_focus = [
-        "CheapFlix Nepal",
+        "CheapFlix Nepal ",
         "Portfolio",
         "Open Source",
     ]
