@@ -362,57 +362,7 @@ MLOps
 
 
 
-## <img src="https://cdn.simpleicons.org/windows11/38BDF8" width="22"/> Development Environment
-
-<table>
-
-<tr>
-
-<td>
-
-<b>Operating System</b>
-
-<br>
-
-Windows
-
-</td>
-
-<td>
-
-<b>Editor</b>
-
-<br>
-
-Visual Studio Code
-
-</td>
-
-<td>
-
-<b>Terminal</b>
-
-<br>
-
-PowerShell • CMD
-
-</td>
-
-<td>
-
-<b>Font</b>
-
-<br>
-
-JetBrains Mono
-
-</td>
-
-</tr>
-
-</table>
-
----
+    
 
 
 
@@ -426,38 +376,6 @@ JetBrains Mono
 
 
 
-## <img src="https://cdn.simpleicons.org/roadmapdotsh/38BDF8" width="22"/> Learning Roadmap
-
-```text
-Python
-   │
-   ▼
-Object-Oriented Programming
-   │
-   ▼
-Data Structures & Algorithms
-   │
-   ▼
-NumPy
-   │
-   ▼
-Pandas
-   │
-   ▼
-Data Analysis
-   │
-   ▼
-Machine Learning
-   │
-   ▼
-Deep Learning
-   │
-   ▼
-Large Language Models
-   │
-   ▼
-MLOps
-```
 
 
 
@@ -705,122 +623,7 @@ A collection of projects created while learning Python, automation, and backend 
 
 </table>
 
----
-## <img src="https://cdn.simpleicons.org/openai/38BDF8" width="22"/> Coming Soon
 
-| Project | Description |
-|----------|-------------|
-| ML Playground | Experiments with Machine Learning algorithms |
-| AI Assistant | Personal AI assistant built with Python |
-| Computer Vision | Image classification and object detection |
-| NLP Projects | Text analysis and language processing |
-| Automation Toolkit | Python utilities for everyday tasks |
-
----
-## <img src="https://cdn.simpleicons.org/target/38BDF8" width="22"/> What I'm Building
-
-```text
-✓ CheapFlix Nepal
-✓ Personal Portfolio
-✓ Python Learning Projects
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Next
-
-→ Machine Learning Projects
-
-→ AI Applications
-
-→ Open Source Contributions
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-
-
-
-
-
-## <img src="https://cdn.simpleicons.org/clockify/38BDF8" width="20"/> Current Activity
-
-```text
-Currently Building
-──────────────────────────────────────
-
-✓ CheapFlix Nepal
-
-✓ Personal Portfolio
-
-✓ Python Learning Projects
-
-──────────────────────────────────────
-
-Currently Learning
-
-• Advanced Python
-
-• Data Structures
-
-• NumPy
-
-• Pandas
-
-• Machine Learning
-
-──────────────────────────────────────
-
-Next Goal
-
-→ Build AI-powered applications
-
-→ Contribute to Open Source
-
-→ Study Computer Science Abroad
-```
-
----
-
-
-
-
-
-
-
-
-
-## <img src="https://cdn.simpleicons.org/target/38BDF8" width="20"/> Road to AI
-
-```text
-2026
-
-▰▰▰▰▱▱▱▱▱▱
-
-Strengthen Python
-Build Better Projects
-
-↓
-
-2027
-
-▰▰▰▰▰▰▱▱▱▱
-
-Machine Learning
-Deep Learning
-Open Source
-
-↓
-
-2028
-
-▰▰▰▰▰▰▰▰▱▱
-
-Computer Science
-AI Research
-Production AI Systems
-```
-
----
 
 
 
