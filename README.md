@@ -1,9 +1,3 @@
-akddiajdadadadadad
-dadddadaad ad 
-ssdsdadadadadaddada
-dadaddadaddada
-adadadaddadadaddadada
-ada
 
 <div align="right">
 
