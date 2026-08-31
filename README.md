@@ -57,34 +57,7 @@
 
 ## <img src="https://cdn.simpleicons.org/python/3776AB" width="22" valign="middle"> About Me
 
-```python
-from developer import PythonDeveloper
-from ai import MachineLearning
 
-
-class ArpanBaral(PythonDeveloper):
-    name = "Arpan Baral"
-    location = "Kathmandu, Nepal"
-
-    current_focus = [
-        "CheapFlix Nepal ",
-        "Portfolio",
-        "Open Source",
-    ]
-
-    learning = MachineLearning(
-        python="Advanced",
-        numpy=True,
-        pandas=True,
-        backend=True,
-        ai=True,
-    )
-
-    mission = (
-        "Building practical software today "
-        "while growing into AI and Machine Learning."
-    )
-```
 
 <table>
 <tr>
@@ -338,20 +311,7 @@ MLOps
 
 
 
-## <img src="https://cdn.simpleicons.org/chartdotjs/38BDF8" width="22"/> Skills Progress
 
-| Technology | Level |
-|------------|-------|
-| Python | ████████░░ |
-| JavaScript | ██████░░░░ |
-| React | ██████░░░░ |
-| Node.js | ██████░░░░ |
-| Git & GitHub | ███████░░░ |
-| Machine Learning | ███░░░░░░░ |
-| NumPy | ███░░░░░░░ |
-| Pandas | ███░░░░░░░ |
-
-> Learning is a journey, not a race.
 
 
 
@@ -401,36 +361,6 @@ MLOps
 
 
 
-## <img src="https://cdn.simpleicons.org/gnubash/ffffff" width="20"/> Terminal
-
-```bash
-arpan@github:~$ whoami
-
-Arpan Baral
-
-Python Developer
-
-Kathmandu, Nepal
-
-arpan@github:~$ current_focus
-
-Building Projects
-Learning Machine Learning
-Preparing for Computer Science Abroad
-
-arpan@github:~$ hobbies
-
-Travel
-Chess
-Guitar
-Flute
-Learning New Things
-
-arpan@github:~$ cat engine.log
-
-Powered by millions of nested if/else statements
-and one while(true) loop that nobody remembers writing.
-```
 
 
 
@@ -460,38 +390,13 @@ and one while(true) loop that nobody remembers writing.
 
 </div>
 
-## <img src="https://cdn.simpleicons.org/git/38BDF8" width="20"/> Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arpan085&theme=github-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF"/>
-
-</div>
-
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=161B22&height=1"/>
 
 
 
 
-## <img src="https://cdn.simpleicons.org/githubsponsors/38BDF8" width="20"/> Achievements
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=arpan085&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4"/>
 
-</div>
-
----
-
-## <img src="https://cdn.simpleicons.org/github/38BDF8" width="20"/> Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/arpan085/arpan085/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 ---
 
