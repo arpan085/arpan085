@@ -55,7 +55,7 @@
 
 
 
-## <img src="https://cdn.simpleicons.org/python/3776AB" width="22" valign="middle"> About Me
+
 
 
 
